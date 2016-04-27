@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file alias="searchBL">icon/searchBL.gif</file>
+    </qresource>
+</RCC>
